@@ -1,0 +1,15 @@
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.csproj.AssemblyReference.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.AssemblyInfoInputs.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.AssemblyInfo.cs
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.csproj.CoreCompileInputs.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\bin\Debug\net6.0\ДЗ2.exe
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\bin\Debug\net6.0\ДЗ2.deps.json
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\bin\Debug\net6.0\ДЗ2.runtimeconfig.json
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\bin\Debug\net6.0\ДЗ2.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\bin\Debug\net6.0\ДЗ2.pdb
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\refint\ДЗ2.dll
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.pdb
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ДЗ2.genruntimeconfig.cache
+C:\Users\qweqwe\Desktop\GB\3. Шарп\Cеминары\ДЗ2\obj\Debug\net6.0\ref\ДЗ2.dll
